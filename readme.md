@@ -8,5 +8,5 @@
 * Labios, Justine Dela Justa
 * Subiera, Earl Krans
 ---
-## <font color="Blue">Documentation</font>
+## <span style="color: blue;">Documentation</span>
 ---
