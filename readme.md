@@ -1,6 +1,6 @@
 # Informatin Assurance and Security - Final Project
 
-* BSCS 3A
+## BSCS 3A
 
   **Group 6 Members**
 * Aguilar, Troy
