@@ -73,18 +73,23 @@
 * Download and install [RealVNC](https://www.realvnc.com/en/connect/download/viewer/) on your computer.
 
     - Click Next.
+
     ![4 1](<assets/images/Screenshot 2023-12-14 141039.png>)
 
     - Accept the terms and agreement.
+
     ![4 2](<assets/images/Screenshot 2023-12-14 141058.png>)
 
     - Click Next
+
     ![4 3](<assets/images/Screenshot 2023-12-14 141115.png>)
 
     - Tick the checkbox to add RealVNC to Firewall exemptions, and click Next.
+
     ![4 4](<assets/images/Screenshot 2023-12-14 141128.png>)
 
     - Install.
+    
     ![4 5](<assets/images/Screenshot 2023-12-14 141139.png>)
 
 * Follow the installation procedures. After that, when you are prompted to select the main web server to run phpMyAdmin, choose **apache2**. 
