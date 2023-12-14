@@ -28,7 +28,7 @@
     - Set the Timezone
     - Hit save.
     
-![1 2](<assets/images/Screenshot 2023-12-14 135839.png>)
+    ![1 2](<assets/images/Screenshot 2023-12-14 135839.png>)
 
 * Apply the customisation setting erase all existing data on the selected SD Card. Click **Yes**.
 ![1 3](<assets/images/Screenshot 2023-12-14 135916.png>)
@@ -37,5 +37,10 @@
 
 ## 2. Connect to Raspberry Pi with SSH using the terminal
 
-* Connect to the SSH with ***ssh "<hostname>"@"<IP_Address>"***
-![1 4](<assets/images/Screenshot 2023-12-14 144010.png>)
+* Run the following commands:
+
+    - ***ssh "hostname@IP_Address"***
+    ![2 1](<assets/images/Screenshot 2023-12-14 144010.png>)
+
+    - ***sudo apt update***
+    ![2 2](<assets/images/Screenshot 2023-12-14 144035.png>)
