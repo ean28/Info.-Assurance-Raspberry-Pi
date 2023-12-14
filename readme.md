@@ -27,6 +27,7 @@
     - Set the Wireless Lan country
     - Set the Timezone
     - Hit save.
+    
 ![1 2](<assets/images/Screenshot 2023-12-14 135839.png>)
 
 * Apply the customisation setting erase all existing data on the selected SD Card. Click **Yes**.
